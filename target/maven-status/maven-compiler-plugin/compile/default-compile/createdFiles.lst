@@ -1,0 +1,8 @@
+BaseDeDatos\GestionBaseDeDatos1.class
+modelo\Pelicula.class
+control\AdminServlet.class
+BaseDeDatos\Conexion.class
+BaseDeDatos\GestionBaseDeDatos2.class
+com\mycompany\pelisacerok\resources\JakartaEE8Resource.class
+control\CatalogoServlet.class
+com\mycompany\pelisacerok\JakartaRestConfiguration.class
